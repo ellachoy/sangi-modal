@@ -10,12 +10,12 @@ function App() {
         <ul className='flex-outer'>
           <li className='such-input'>
             <label for='first-name'>Such SNR</label>
-            <input type='text' id='first-name' placeholder='Enter SNR Number' />
+            <input type='text' placeholder='Enter SNR Number' />
           </li>
           <div className='divider'></div>
           <li>
             <label for='last-name'>Aktuelles SNR</label>
-            <input type='text' id='last-name' />
+            <input type='text' />
           </li>
           <li>
             <label for='email'>Label 1</label>
